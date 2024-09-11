@@ -1,0 +1,1297 @@
+{
+    "intentions": [
+        {
+            "tag": "batteries_FDK",
+            "questions": [
+                "Montre-moi les batteries de la marque FDK.",
+                "Quelles sont les batteries de la marque FDK disponibles?",
+                "Donne-moi les batteries de la marque FDK s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque FDK?",
+                "Affiche-moi les batteries de la marque FDK.",
+                "Je suis intéressé par les batteries de la marque FDK.",
+                "Montre-moi les accumulateurs de la marque FDK.",
+                "Liste des batteries de la marque FDK.",
+                "Quels sont les accumulateurs de la marque FDK?",
+                "Affichez-moi les piles de la marque FDK.",
+                "Pouvez-vous me montrer les batteries de la marque FDK s'il vous plaît?",
+                "Je cherche des batteries de la marque FDK.",
+                "Quelles sont les options de batteries de la marque FDK?",
+                "Auriez-vous des informations sur les batteries de la marque FDK?",
+                "Montrez-moi les batteries de la marque FDK disponibles.",
+                "Y a-t-il des batteries de la marque FDK en stock?",
+                "Quelles sont les batteries de la marque FDK en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque FDK?",
+                "Je veux voir les batteries de la marque FDK.",
+                "Affichez-moi les batteries de la marque FDK en stock.",
+                "Quelles sont les batteries de la marque FDK en promotion?"
+            ],
+            "responses": ["Voici les batteries FDK disponibles :"]
+        },
+        {
+            "tag": "batteries_Eneloop_Panasonic",
+            "questions": [
+                "Montre-moi les batteries de la marque Eneloop (Panasonic).",
+                "Quelles sont les batteries de la marque Eneloop (Panasonic) disponibles?",
+                "Donne-moi les batteries de la marque Eneloop (Panasonic) s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Eneloop (Panasonic)?",
+                "Affiche-moi les batteries de la marque Eneloop (Panasonic).",
+                "Je suis intéressé par les batteries de la marque Eneloop (Panasonic).",
+                "Montre-moi les accumulateurs de la marque Eneloop (Panasonic).",
+                "Liste des batteries de la marque Eneloop (Panasonic).",
+                "Quels sont les accumulateurs de la marque Eneloop (Panasonic)?",
+                "Affichez-moi les piles de la marque Eneloop (Panasonic).",
+                "Pouvez-vous me montrer les batteries de la marque Eneloop (Panasonic) s'il vous plaît?",
+                "Je cherche des batteries de la marque Eneloop (Panasonic).",
+                "Quelles sont les options de batteries de la marque Eneloop (Panasonic)?",
+                "Auriez-vous des informations sur les batteries de la marque Eneloop (Panasonic)?",
+                "Montrez-moi les batteries de la marque Eneloop (Panasonic) disponibles.",
+                "Y a-t-il des batteries de la marque Eneloop (Panasonic) en stock?",
+                "Quelles sont les batteries de la marque Eneloop (Panasonic) en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Eneloop (Panasonic)?",
+                "Je veux voir les batteries de la marque Eneloop (Panasonic).",
+                "Affichez-moi les batteries de la marque Eneloop (Panasonic) en stock.",
+                "Quelles sont les batteries de la marque Eneloop (Panasonic) en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Eneloop (Panasonic) disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_Everactive",
+            "questions": [
+                "Montre-moi les batteries de la marque Everactive.",
+                "Quelles sont les batteries de la marque Everactive disponibles?",
+                "Donne-moi les batteries de la marque Everactive s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Everactive?",
+                "Affiche-moi les batteries de la marque Everactive.",
+                "Je suis intéressé par les batteries de la marque Everactive.",
+                "Montre-moi les accumulateurs de la marque Everactive.",
+                "Liste des batteries de la marque Everactive.",
+                "Quels sont les accumulateurs de la marque Everactive?",
+                "Affichez-moi les piles de la marque Everactive.",
+                "Pouvez-vous me montrer les batteries de la marque Everactive s'il vous plaît?",
+                "Je cherche des batteries de la marque Everactive.",
+                "Quelles sont les options de batteries de la marque Everactive?",
+                "Auriez-vous des informations sur les batteries de la marque Everactive?",
+                "Montrez-moi les batteries de la marque Everactive disponibles.",
+                "Y a-t-il des batteries de la marque Everactive en stock?",
+                "Quelles sont les batteries de la marque Everactive en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Everactive?",
+                "Je veux voir les batteries de la marque Everactive.",
+                "Affichez-moi les batteries de la marque Everactive en stock.",
+                "Quelles sont les batteries de la marque Everactive en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Everactive disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_Xcell",
+            "questions": [
+                "Montre-moi les batteries de la marque Xcell.",
+                "Quelles sont les batteries de la marque Xcell disponibles?",
+                "Donne-moi les batteries de la marque Xcell s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Xcell?",
+                "Affiche-moi les batteries de la marque Xcell.",
+                "Je suis intéressé par les batteries de la marque Xcell.",
+                "Montre-moi les accumulateurs de la marque Xcell.",
+                "Liste des batteries de la marque Xcell.",
+                "Quels sont les accumulateurs de la marque Xcell?",
+                "Affichez-moi les piles de la marque Xcell.",
+                "Pouvez-vous me montrer les batteries de la marque Xcell s'il vous plaît?",
+                "Je cherche des batteries de la marque Xcell.",
+                "Quelles sont les options de batteries de la marque Xcell?",
+                "Auriez-vous des informations sur les batteries de la marque Xcell?",
+                "Montrez-moi les batteries de la marque Xcell disponibles.",
+                "Y a-t-il des batteries de la marque Xcell en stock?",
+                "Quelles sont les batteries de la marque Xcell en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Xcell?",
+                "Je veux voir les batteries de la marque Xcell.",
+                "Affichez-moi les batteries de la marque Xcell en stock.",
+                "Quelles sont les batteries de la marque Xcell en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Xcell disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_Aspilsan",
+            "questions": [
+                "Montre-moi les batteries de la marque Aspilsan.",
+                "Quelles sont les batteries de la marque Aspilsan disponibles?",
+                "Donne-moi les batteries de la marque Aspilsan s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Aspilsan?",
+                "Affiche-moi les batteries de la marque Aspilsan.",
+                "Je suis intéressé par les batteries de la marque Aspilsan.",
+                "Montre-moi les accumulateurs de la marque Aspilsan.",
+                "Liste des batteries de la marque Aspilsan.",
+                "Quels sont les accumulateurs de la marque Aspilsan?",
+                "Affichez-moi les piles de la marque Aspilsan.",
+                "Pouvez-vous me montrer les batteries de la marque Aspilsan s'il vous plaît?",
+                "Je cherche des batteries de la marque Aspilsan.",
+                "Quelles sont les options de batteries de la marque Aspilsan?",
+                "Auriez-vous des informations sur les batteries de la marque Aspilsan?",
+                "Montrez-moi les batteries de la marque Aspilsan disponibles.",
+                "Y a-t-il des batteries de la marque Aspilsan en stock?",
+                "Quelles sont les batteries de la marque Aspilsan en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Aspilsan?",
+                "Je veux voir les batteries de la marque Aspilsan.",
+                "Affichez-moi les batteries de la marque Aspilsan en stock.",
+                "Quelles sont les batteries de la marque Aspilsan en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Aspilsan disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_DMEGC",
+            "questions": [
+                "Montre-moi les batteries de la marque DMEGC.",
+                "Quelles sont les batteries de la marque DMEGC disponibles?",
+                "Donne-moi les batteries de la marque DMEGC s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque DMEGC?",
+                "Affiche-moi les batteries de la marque DMEGC.",
+                "Je suis intéressé par les batteries de la marque DMEGC.",
+                "Montre-moi les accumulateurs de la marque DMEGC.",
+                "Liste des batteries de la marque DMEGC.",
+                "Quels sont les accumulateurs de la marque DMEGC?",
+                "Affichez-moi les piles de la marque DMEGC.",
+                "Pouvez-vous me montrer les batteries de la marque DMEGC s'il vous plaît?",
+                "Je cherche des batteries de la marque DMEGC.",
+                "Quelles sont les options de batteries de la marque DMEGC?",
+                "Auriez-vous des informations sur les batteries de la marque DMEGC?",
+                "Montrez-moi les batteries de la marque DMEGC disponibles.",
+                "Y a-t-il des batteries de la marque DMEGC en stock?",
+                "Quelles sont les batteries de la marque DMEGC en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque DMEGC?",
+                "Je veux voir les batteries de la marque DMEGC.",
+                "Affichez-moi les batteries de la marque DMEGC en stock.",
+                "Quelles sont les batteries de la marque DMEGC en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries DMEGC disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_Sinowatt",
+            "questions": [
+                "Montre-moi les batteries de la marque Sinowatt.",
+                "Quelles sont les batteries de la marque Sinowatt disponibles?",
+                "Donne-moi les batteries de la marque Sinowatt s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Sinowatt?",
+                "Affiche-moi les batteries de la marque Sinowatt.",
+                "Je suis intéressé par les batteries de la marque Sinowatt.",
+                "Montre-moi les accumulateurs de la marque Sinowatt.",
+                "Liste des batteries de la marque Sinowatt.",
+                "Quels sont les accumulateurs de la marque Sinowatt?",
+                "Affichez-moi les piles de la marque Sinowatt.",
+                "Pouvez-vous me montrer les batteries de la marque Sinowatt s'il vous plaît?",
+                "Je cherche des batteries de la marque Sinowatt.",
+                "Quelles sont les options de batteries de la marque Sinowatt?",
+                "Auriez-vous des informations sur les batteries de la marque Sinowatt?",
+                "Montrez-moi les batteries de la marque Sinowatt disponibles.",
+                "Y a-t-il des batteries de la marque Sinowatt en stock?",
+                "Quelles sont les batteries de la marque Sinowatt en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Sinowatt?",
+                "Je veux voir les batteries de la marque Sinowatt.",
+                "Affichez-moi les batteries de la marque Sinowatt en stock.",
+                "Quelles sont les batteries de la marque Sinowatt en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Sinowatt disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_Lishen",
+            "questions": [
+                "Montre-moi les batteries de la marque Lishen.",
+                "Quelles sont les batteries de la marque Lishen disponibles?",
+                "Donne-moi les batteries de la marque Lishen s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Lishen?",
+                "Affiche-moi les batteries de la marque Lishen.",
+                "Je suis intéressé par les batteries de la marque Lishen.",
+                "Montre-moi les accumulateurs de la marque Lishen.",
+                "Liste des batteries de la marque Lishen.",
+                "Quels sont les accumulateurs de la marque Lishen?",
+                "Affichez-moi les piles de la marque Lishen.",
+                "Pouvez-vous me montrer les batteries de la marque Lishen s'il vous plaît?",
+                "Je cherche des batteries de la marque Lishen.",
+                "Quelles sont les options de batteries de la marque Lishen?",
+                "Auriez-vous des informations sur les batteries de la marque Lishen?",
+                "Montrez-moi les batteries de la marque Lishen disponibles.",
+                "Y a-t-il des batteries de la marque Lishen en stock?",
+                "Quelles sont les batteries de la marque Lishen en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Lishen?",
+                "Je veux voir les batteries de la marque Lishen.",
+                "Affichez-moi les batteries de la marque Lishen en stock.",
+                "Quelles sont les batteries de la marque Lishen en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Lishen disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_BAK",
+            "questions": [
+                "Montre-moi les batteries de la marque BAK.",
+                "Quelles sont les batteries de la marque BAK disponibles?",
+                "Donne-moi les batteries de la marque BAK s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque BAK?",
+                "Affiche-moi les batteries de la marque BAK.",
+                "Je suis intéressé par les batteries de la marque BAK.",
+                "Montre-moi les accumulateurs de la marque BAK.",
+                "Liste des batteries de la marque BAK.",
+                "Quels sont les accumulateurs de la marque BAK?",
+                "Affichez-moi les piles de la marque BAK.",
+                "Pouvez-vous me montrer les batteries de la marque BAK s'il vous plaît?",
+                "Je cherche des batteries de la marque BAK.",
+                "Quelles sont les options de batteries de la marque BAK?",
+                "Auriez-vous des informations sur les batteries de la marque BAK?",
+                "Montrez-moi les batteries de la marque BAK disponibles.",
+                "Y a-t-il des batteries de la marque BAK en stock?",
+                "Quelles sont les batteries de la marque BAK en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque BAK?",
+                "Je veux voir les batteries de la marque BAK.",
+                "Affichez-moi les batteries de la marque BAK en stock.",
+                "Quelles sont les batteries de la marque BAK en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries BAK disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_Sony_Murata",
+            "questions": [
+                "Montre-moi les batteries de la marque Sony / Murata.",
+                "Quelles sont les batteries de la marque Sony / Murata disponibles?",
+                "Donne-moi les batteries de la marque Sony / Murata s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Sony / Murata?",
+                "Affiche-moi les batteries de la marque Sony / Murata.",
+                "Je suis intéressé par les batteries de la marque Sony / Murata.",
+                "Montre-moi les accumulateurs de la marque Sony / Murata.",
+                "Liste des batteries de la marque Sony / Murata.",
+                "Quels sont les accumulateurs de la marque Sony / Murata?",
+                "Affichez-moi les piles de la marque Sony / Murata.",
+                "Pouvez-vous me montrer les batteries de la marque Sony / Murata s'il vous plaît?",
+                "Je cherche des batteries de la marque Sony / Murata.",
+                "Quelles sont les options de batteries de la marque Sony / Murata?",
+                "Auriez-vous des informations sur les batteries de la marque Sony / Murata?",
+                "Montrez-moi les batteries de la marque Sony / Murata disponibles.",
+                "Y a-t-il des batteries de la marque Sony / Murata en stock?",
+                "Quelles sont les batteries de la marque Sony / Murata en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Sony / Murata?",
+                "Je veux voir les batteries de la marque Sony / Murata.",
+                "Affichez-moi les batteries de la marque Sony / Murata en stock.",
+                "Quelles sont les batteries de la marque Sony / Murata en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Sony / Murata disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_EagleTac",
+            "questions": [
+                "Montre-moi les batteries de la marque EagleTac.",
+                "Quelles sont les batteries de la marque EagleTac disponibles?",
+                "Donne-moi les batteries de la marque EagleTac s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque EagleTac?",
+                "Affiche-moi les batteries de la marque EagleTac.",
+                "Je suis intéressé par les batteries de la marque EagleTac.",
+                "Montre-moi les accumulateurs de la marque EagleTac.",
+                "Liste des batteries de la marque EagleTac.",
+                "Quels sont les accumulateurs de la marque EagleTac?",
+                "Affichez-moi les piles de la marque EagleTac.",
+                "Pouvez-vous me montrer les batteries de la marque EagleTac s'il vous plaît?",
+                "Je cherche des batteries de la marque EagleTac.",
+                "Quelles sont les options de batteries de la marque EagleTac?",
+                "Auriez-vous des informations sur les batteries de la marque EagleTac?",
+                "Montrez-moi les batteries de la marque EagleTac disponibles.",
+                "Y a-t-il des batteries de la marque EagleTac en stock?",
+                "Quelles sont les batteries de la marque EagleTac en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque EagleTac?",
+                "Je veux voir les batteries de la marque EagleTac.",
+                "Affichez-moi les batteries de la marque EagleTac en stock.",
+                "Quelles sont les batteries de la marque EagleTac en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries EagleTac disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_EVE",
+            "questions": [
+                "Montre-moi les batteries de la marque EVE.",
+                "Quelles sont les batteries de la marque EVE disponibles?",
+                "Donne-moi les batteries de la marque EVE s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque EVE?",
+                "Affiche-moi les batteries de la marque EVE.",
+                "Je suis intéressé par les batteries de la marque EVE.",
+                "Montre-moi les accumulateurs de la marque EVE.",
+                "Liste des batteries de la marque EVE.",
+                "Quels sont les accumulateurs de la marque EVE?",
+                "Affichez-moi les piles de la marque EVE.",
+                "Pouvez-vous me montrer les batteries de la marque EVE s'il vous plaît?",
+                "Je cherche des batteries de la marque EVE.",
+                "Quelles sont les options de batteries de la marque EVE?",
+                "Auriez-vous des informations sur les batteries de la marque EVE?",
+                "Montrez-moi les batteries de la marque EVE disponibles.",
+                "Y a-t-il des batteries de la marque EVE en stock?",
+                "Quelles sont les batteries de la marque EVE en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque EVE?",
+                "Je veux voir les batteries de la marque EVE.",
+                "Affichez-moi les batteries de la marque EVE en stock.",
+                "Quelles sont les batteries de la marque EVE en promotion?"
+            ],
+            "responses": ["Voici les batteries EVE disponibles :"]
+        },
+        {
+            "tag": "batteries_Vapcell",
+            "questions": [
+                "Montre-moi les batteries de la marque Vapcell.",
+                "Quelles sont les batteries de la marque Vapcell disponibles?",
+                "Donne-moi les batteries de la marque Vapcell s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Vapcell?",
+                "Affiche-moi les batteries de la marque Vapcell.",
+                "Je suis intéressé par les batteries de la marque Vapcell.",
+                "Montre-moi les accumulateurs de la marque Vapcell.",
+                "Liste des batteries de la marque Vapcell.",
+                "Quels sont les accumulateurs de la marque Vapcell?",
+                "Affichez-moi les piles de la marque Vapcell.",
+                "Pouvez-vous me montrer les batteries de la marque Vapcell s'il vous plaît?",
+                "Je cherche des batteries de la marque Vapcell.",
+                "Quelles sont les options de batteries de la marque Vapcell?",
+                "Auriez-vous des informations sur les batteries de la marque Vapcell?",
+                "Montrez-moi les batteries de la marque Vapcell disponibles.",
+                "Y a-t-il des batteries de la marque Vapcell en stock?",
+                "Quelles sont les batteries de la marque Vapcell en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Vapcell?",
+                "Je veux voir les batteries de la marque Vapcell.",
+                "Affichez-moi les batteries de la marque Vapcell en stock.",
+                "Quelles sont les batteries de la marque Vapcell en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Vapcell disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_Molicel",
+            "questions": [
+                "Montre-moi les batteries de la marque Molicel.",
+                "Quelles sont les batteries de la marque Molicel disponibles?",
+                "Donne-moi les batteries de la marque Molicel s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Molicel?",
+                "Affiche-moi les batteries de la marque Molicel.",
+                "Je suis intéressé par les batteries de la marque Molicel.",
+                "Montre-moi les accumulateurs de la marque Molicel.",
+                "Liste des batteries de la marque Molicel.",
+                "Quels sont les accumulateurs de la marque Molicel?",
+                "Affichez-moi les piles de la marque Molicel.",
+                "Pouvez-vous me montrer les batteries de la marque Molicel s'il vous plaît?",
+                "Je cherche des batteries de la marque Molicel.",
+                "Quelles sont les options de batteries de la marque Molicel?",
+                "Auriez-vous des informations sur les batteries de la marque Molicel?",
+                "Montrez-moi les batteries de la marque Molicel disponibles.",
+                "Y a-t-il des batteries de la marque Molicel en stock?",
+                "Quelles sont les batteries de la marque Molicel en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Molicel?",
+                "Je veux voir les batteries de la marque Molicel.",
+                "Affichez-moi les batteries de la marque Molicel en stock.",
+                "Quelles sont les batteries de la marque Molicel en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Molicel disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_Tenpower",
+            "questions": [
+                "Montre-moi les batteries de la marque Tenpower.",
+                "Quelles sont les batteries de la marque Tenpower disponibles?",
+                "Donne-moi les batteries de la marque Tenpower s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Tenpower?",
+                "Affiche-moi les batteries de la marque Tenpower.",
+                "Je suis intéressé par les batteries de la marque Tenpower.",
+                "Montre-moi les accumulateurs de la marque Tenpower.",
+                "Liste des batteries de la marque Tenpower.",
+                "Quels sont les accumulateurs de la marque Tenpower?",
+                "Affichez-moi les piles de la marque Tenpower.",
+                "Pouvez-vous me montrer les batteries de la marque Tenpower s'il vous plaît?",
+                "Je cherche des batteries de la marque Tenpower.",
+                "Quelles sont les options de batteries de la marque Tenpower?",
+                "Auriez-vous des informations sur les batteries de la marque Tenpower?",
+                "Montrez-moi les batteries de la marque Tenpower disponibles.",
+                "Y a-t-il des batteries de la marque Tenpower en stock?",
+                "Quelles sont les batteries de la marque Tenpower en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Tenpower?",
+                "Je veux voir les batteries de la marque Tenpower.",
+                "Affichez-moi les batteries de la marque Tenpower en stock.",
+                "Quelles sont les batteries de la marque Tenpower en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Tenpower disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_Olight",
+            "questions": [
+                "Montre-moi les batteries de la marque Olight.",
+                "Quelles sont les batteries de la marque Olight disponibles?",
+                "Donne-moi les batteries de la marque Olight s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Olight?",
+                "Affiche-moi les batteries de la marque Olight.",
+                "Je suis intéressé par les batteries de la marque Olight.",
+                "Montre-moi les accumulateurs de la marque Olight.",
+                "Liste des batteries de la marque Olight.",
+                "Quels sont les accumulateurs de la marque Olight?",
+                "Affichez-moi les piles de la marque Olight.",
+                "Pouvez-vous me montrer les batteries de la marque Olight s'il vous plaît?",
+                "Je cherche des batteries de la marque Olight.",
+                "Quelles sont les options de batteries de la marque Olight?",
+                "Auriez-vous des informations sur les batteries de la marque Olight?",
+                "Montrez-moi les batteries de la marque Olight disponibles.",
+                "Y a-t-il des batteries de la marque Olight en stock?",
+                "Quelles sont les batteries de la marque Olight en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Olight?",
+                "Je veux voir les batteries de la marque Olight.",
+                "Affichez-moi les batteries de la marque Olight en stock.",
+                "Quelles sont les batteries de la marque Olight en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Olight disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_Keeppower",
+            "questions": [
+                "Montre-moi les batteries de la marque Keeppower.",
+                "Quelles sont les batteries de la marque Keeppower disponibles?",
+                "Donne-moi les batteries de la marque Keeppower s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Keeppower?",
+                "Affiche-moi les batteries de la marque Keeppower.",
+                "Je suis intéressé par les batteries de la marque Keeppower.",
+                "Montre-moi les accumulateurs de la marque Keeppower.",
+                "Liste des batteries de la marque Keeppower.",
+                "Quels sont les accumulateurs de la marque Keeppower?",
+                "Affichez-moi les piles de la marque Keeppower.",
+                "Pouvez-vous me montrer les batteries de la marque Keeppower s'il vous plaît?",
+                "Je cherche des batteries de la marque Keeppower.",
+                "Quelles sont les options de batteries de la marque Keeppower?",
+                "Auriez-vous des informations sur les batteries de la marque Keeppower?",
+                "Montrez-moi les batteries de la marque Keeppower disponibles.",
+                "Y a-t-il des batteries de la marque Keeppower en stock?",
+                "Quelles sont les batteries de la marque Keeppower en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Keeppower?",
+                "Je veux voir les batteries de la marque Keeppower.",
+                "Affichez-moi les batteries de la marque Keeppower en stock.",
+                "Quelles sont les batteries de la marque Keeppower en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Keeppower disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_Samsung",
+            "questions": [
+                "Montre-moi les batteries de la marque Samsung.",
+                "Quelles sont les batteries de la marque Samsung disponibles?",
+                "Donne-moi les batteries de la marque Samsung s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Samsung?",
+                "Affiche-moi les batteries de la marque Samsung.",
+                "Je suis intéressé par les batteries de la marque Samsung.",
+                "Montre-moi les accumulateurs de la marque Samsung.",
+                "Liste des batteries de la marque Samsung.",
+                "Quels sont les accumulateurs de la marque Samsung?",
+                "Affichez-moi les piles de la marque Samsung.",
+                "Pouvez-vous me montrer les batteries de la marque Samsung s'il vous plaît?",
+                "Je cherche des batteries de la marque Samsung.",
+                "Quelles sont les options de batteries de la marque Samsung?",
+                "Auriez-vous des informations sur les batteries de la marque Samsung?",
+                "Montrez-moi les batteries de la marque Samsung disponibles.",
+                "Y a-t-il des batteries de la marque Samsung en stock?",
+                "Quelles sont les batteries de la marque Samsung en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Samsung?",
+                "Je veux voir les batteries de la marque Samsung.",
+                "Affichez-moi les batteries de la marque Samsung en stock.",
+                "Quelles sont les batteries de la marque Samsung en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Samsung disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_Nitecore",
+            "questions": [
+                "Montre-moi les batteries de la marque Nitecore.",
+                "Quelles sont les batteries de la marque Nitecore disponibles?",
+                "Donne-moi les batteries de la marque Nitecore s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Nitecore?",
+                "Affiche-moi les batteries de la marque Nitecore.",
+                "Je suis intéressé par les batteries de la marque Nitecore.",
+                "Montre-moi les accumulateurs de la marque Nitecore.",
+                "Liste des batteries de la marque Nitecore.",
+                "Quels sont les accumulateurs de la marque Nitecore?",
+                "Affichez-moi les piles de la marque Nitecore.",
+                "Pouvez-vous me montrer les batteries de la marque Nitecore s'il vous plaît?",
+                "Je cherche des batteries de la marque Nitecore.",
+                "Quelles sont les options de batteries de la marque Nitecore?",
+                "Auriez-vous des informations sur les batteries de la marque Nitecore?",
+                "Montrez-moi les batteries de la marque Nitecore disponibles.",
+                "Y a-t-il des batteries de la marque Nitecore en stock?",
+                "Quelles sont les batteries de la marque Nitecore en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Nitecore?",
+                "Je veux voir les batteries de la marque Nitecore.",
+                "Affichez-moi les batteries de la marque Nitecore en stock.",
+                "Quelles sont les batteries de la marque Nitecore en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Nitecore disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_Sanyo",
+            "questions": [
+                "Montre-moi les batteries de la marque Sanyo.",
+                "Quelles sont les batteries de la marque Sanyo disponibles?",
+                "Donne-moi les batteries de la marque Sanyo s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Sanyo?",
+                "Affiche-moi les batteries de la marque Sanyo.",
+                "Je suis intéressé par les batteries de la marque Sanyo.",
+                "Montre-moi les accumulateurs de la marque Sanyo.",
+                "Liste des batteries de la marque Sanyo.",
+                "Quels sont les accumulateurs de la marque Sanyo?",
+                "Affichez-moi les piles de la marque Sanyo.",
+                "Pouvez-vous me montrer les batteries de la marque Sanyo s'il vous plaît?",
+                "Je cherche des batteries de la marque Sanyo.",
+                "Quelles sont les options de batteries de la marque Sanyo?",
+                "Auriez-vous des informations sur les batteries de la marque Sanyo?",
+                "Montrez-moi les batteries de la marque Sanyo disponibles.",
+                "Y a-t-il des batteries de la marque Sanyo en stock?",
+                "Quelles sont les batteries de la marque Sanyo en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Sanyo?",
+                "Je veux voir les batteries de la marque Sanyo.",
+                "Affichez-moi les batteries de la marque Sanyo en stock.",
+                "Quelles sont les batteries de la marque Sanyo en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Sanyo disponibles :"
+            ]
+        },
+        {
+            "tag": "batteries_Xtar",
+            "questions": [
+                "Montre-moi les batteries de la marque Xtar.",
+                "Quelles sont les batteries de la marque Xtar disponibles?",
+                "Donne-moi les batteries de la marque Xtar s'il te plaît.",
+                "Peux-tu me montrer les batteries de la marque Xtar?",
+                "Affiche-moi les batteries de la marque Xtar.",
+                "Je suis intéressé par les batteries de la marque Xtar.",
+                "Montre-moi les accumulateurs de la marque Xtar.",
+                "Liste des batteries de la marque Xtar.",
+                "Quels sont les accumulateurs de la marque Xtar?",
+                "Affichez-moi les piles de la marque Xtar.",
+                "Pouvez-vous me montrer les batteries de la marque Xtar s'il vous plaît?",
+                "Je cherche des batteries de la marque Xtar.",
+                "Quelles sont les options de batteries de la marque Xtar?",
+                "Auriez-vous des informations sur les batteries de la marque Xtar?",
+                "Montrez-moi les batteries de la marque Xtar disponibles.",
+                "Y a-t-il des batteries de la marque Xtar en stock?",
+                "Quelles sont les batteries de la marque Xtar en vente?",
+                "Pouvez-vous me donner des détails sur les batteries de la marque Xtar?",
+                "Je veux voir les batteries de la marque Xtar.",
+                "Affichez-moi les batteries de la marque Xtar en stock.",
+                "Quelles sont les batteries de la marque Xtar en promotion?"
+            ],
+            "responses": [
+                "Voici les batteries Xtar disponibles :"
+            ]
+        },
+        {
+  "tag": "information_batterie",
+  "questions": [
+    "Pourriez-vous me donner des informations sur la batterie de numéro 6097319959956 ?",
+    "Quelles sont les spécifications de la batterie de numéro 6097319959956 ?",
+    "Auriez-vous des informations sur la batterie qui  à l'identifiant 8716961105273 ?",
+    "Pouvez-vous m'indiquer les caractéristiques de la batterie portant le numéro 6926540927215 ?",
+    "Je voudrais en savoir plus sur la batterie qui a la référence 6926540927277.",
+    "Auriez-vous des informations concernant la batterie  de référence  6926540927338 ?",
+    "Quelles sont les caractéristiques de la batterie de numéro 6926540927260 ?",
+    "Pourrais-je avoir des détails au sujet de la batterie ayant pour référence 6097322476471 ?",
+    "Quel est le descriptif de la batterie de référence  8438493100709 ?",
+    "Quelles sont les spécificités de la batterie ayant pour référence 9009316342928 ?",
+    "Je voudrais obtenir des informations sur la batterie ayant pour numéro 4250615506367.",
+    "Je souhaite obtenir des détails sur la batterie sous le numéro 6097319845884.",
+    "Quelles sont les caractéristiques de la batterie ayant pour référence 6097319232240 ?",
+    "Pouvez-vous me fournir des informations concernant la batterie qui a pour référence 3097319959956 ?",
+    "Je voudrais avoir des informations concernant la batterie identifiée par le numéro 8071629344592."
+  ],
+  "responses": [
+    "Voici les informations concernant la batterie demandée"
+  ]
+
+
+        },
+        {
+            "tag": "marques_batteries",
+            "questions": [
+                "Quelles marques de batteries sont proposées?",
+                "Pouvez-vous me donner la liste des marques de batteries disponibles s'il vous plaît?",
+                "Quels sont les fabricants de batteries disponibles?",
+                "Pourriez-vous m'indiquer les différentes marques de batteries disponibles?",
+                "Donnez-moi une liste des marques de batteries disponibles.",
+                "Quels sont les noms de marque pour les batteries que vous proposez?",
+                "Auriez-vous des informations sur les marques de batteries disponibles?",
+                "Pouvez-vous me citer quelques-unes des marques de batteries que vous proposez?",
+                "Quels fabricants de batteries sont disponibles?",
+                "Pourriez-vous me donner une liste des marques de batteries que vous avez en stock?",
+                "Quelles sont les marques de batteries que vous offrez?",
+                "Auriez-vous des informations sur les différentes marques de batteries?",
+                "Pouvez-vous me fournir une liste des marques de batteries que vous proposez?",
+                "Quelles marques de batteries puis-je trouver chez vous?",
+                "Quelles sont les différentes marques de batteries que vous avez en magasin?",
+                "Peux-tu me citer quelques-unes des marques de batteries disponibles?",
+                "Quelles sont les marques de batteries que vous avez à disposition?",
+                "Pourriez-vous me dire les noms de marque des batteries que vous vendez?",
+                "Quelles sont les options de marques pour les batteries?",
+                "Quelles sont les marques de batteries que vous avez en inventaire?"
+            ],
+            "responses": [
+                "Voici toutes les marques de batteries proposées sur ce site"
+            ]
+        },
+        {
+            "tag": "tension_superieure",
+            "questions": [
+                "Peux-tu me montrer les batteries dont la tension dépasse 3.7 volts?",
+                "Liste des accumulateurs avec une tension supérieure à 4.2.",
+                "Quelles sont les piles qui ont une tension plus grande que 3.9 volts?",
+                "Donne-moi les batteries ayant une tension supérieure à 4.1.",
+                "Pouvez-vous afficher les batteries avec une tension supérieure à 4.3 V s'il vous plaît?",
+                "Affichez-moi la liste des accumulateurs dont la tension dépasse 4.5 V.",
+                "Quels sont les accumulateurs ayant une tension supérieure à 3.8 V?",
+                "Peux-tu me donner les piles avec une tension dépassant 4.0 volts?",
+                "Je voudrais voir les batteries qui ont une tension supérieure à 4.2 V s'il vous plaît.",
+                "Affichez-moi les accumulateurs avec une tension plus grande que 3.6 volts.",
+                "Quelles sont les piles dont la tension dépasse 3.5 V?",
+                "Donnez-moi la liste des batteries avec une tension supérieure à 3.9 volts s'il vous plaît.",
+                "Pouvez-vous me montrer les batteries qui ont une tension plus grande que 4.1 V?",
+                "Liste des accumulateurs ayant une tension qui dépasse 4.4 V.",
+                "Quels sont les accumulateurs avec une tension supérieure à 3.7 V?",
+                "Affichez-moi les piles dont la tension dépasse 4.6 V s'il vous plaît.",
+                "Je voudrais voir les batteries qui ont une tension supérieure à 3.6 volts.",
+                "Quelles sont les options de piles avec une tension supérieure à 4.4 V?",
+                "Donnez-moi la liste des accumulateurs avec une tension plus grande que 3.5 V s'il vous plaît.",
+                "Pouvez-vous afficher les batteries dont la tension dépasse 4.8 V?"
+            ],
+            "responses": [
+                "Voici les batteries possédant une tension supérieur la valeur demandée"
+            ]
+        },
+        {
+            "tag": "tension_inferieure",
+            "questions": [
+                "Peux-tu me montrer les batteries dont la tension est moins que 3.7 volts?",
+                "Liste des accumulateurs avec une tension inférieure à 4.2.",
+                "Quelles sont les piles qui ont une tension plus petite que 3.9 volts?",
+                "Donne-moi les batteries ayant une tension inférieure à 4.1.",
+                "Pouvez-vous afficher les batteries avec une tension inférieure à 4.3 V s'il vous plaît?",
+                "Affichez-moi la liste des accumulateurs dont la tension est moins que 4.5 V.",
+                "Quels sont les accumulateurs ayant une tension inférieure à 3.8 V?",
+                "Peux-tu me donner les piles avec une tension moins que  4.0 volts?",
+                "Je voudrais voir les batteries qui ont une tension inférieure à 4.2 V s'il vous plaît.",
+                "Affichez-moi les accumulateurs avec une tension plus petite que 3.6 volts.",
+                "Quelles sont les piles dont la tension est moins que  3.5 V?",
+                "Donnez-moi la liste des batteries avec une tension inférieure à 3.9 volts s'il vous plaît.",
+                "Pouvez-vous me montrer les batteries qui ont une tension plus petite que 4.1 V?",
+                "Liste des accumulateurs ayant une tension qui est inférieure à  4.4 V.",
+                "Quels sont les accumulateurs avec une tension inférieure à 3.7 V?",
+                "Affichez-moi les piles dont la tension est inférieure 4.6 V s'il vous plaît.",
+                "Je voudrais voir les batteries qui ont une tension inférieure à 3.6 volts.",
+                "Quelles sont les options de piles avec une tension inférieure à 4.4 V?",
+                "Donnez-moi la liste des accumulateurs avec une tension plus petite que 3.5 V s'il vous plaît.",
+                "Pouvez-vous afficher les batteries dont la tension est inférieure à 4.8 V?"
+            ],
+            "responses": [
+                "Voici les batteries possédant une tension inférieur la valeur demandée"
+            ]
+        },
+        {
+            "tag": "tension_intervalle",
+            "questions": [
+                "Quelles sont les batteries avec une tension comprise entre 3.2 et 4.0 volts ?",
+                "Montre-moi les batteries avec une tension comprise entre 3.6 et 4.2.",
+                "Quelles batteries ont une plage de tension entre 3.8 et 4.5 ?",
+                "Peux-tu me montrer les batteries dont la tension se situe entre 3.4 et 4.1 V ?",
+                "Liste des accumulateurs avec une tension comprise entre 3.3 et 4.3.",
+                "Quelles sont les piles qui ont une tension entre 3.7 et 4.4 volts ?",
+                "Donne-moi les batteries ayant une tension entre 3.5 et 4.2.",
+                "Pouvez-vous afficher les batteries avec une tension comprise entre 3.9 et 4.6 V s'il vous plaît ?",
+                "Affichez-moi la liste des accumulateurs dont la tension se trouve entre 3.6 et 4.3 V.",
+                "Quels sont les accumulateurs ayant une tension entre 3.2 et 4.0 V ?",
+                "Peux-tu me donner les piles avec une tension entre 3.8 et 4.5 volts ?",
+                "Je voudrais voir les batteries qui ont une tension comprise entre 3.3 et 4.1 V s'il vous plaît.",
+                "Affichez-moi les accumulateurs avec une tension entre 3.7 et 4.4 volts.",
+                "Quelles sont les piles dont la tension est entre 3.4 et 4.2 V ?",
+                "Donnez-moi la liste des batteries avec une tension entre 3.6 et 4.3 volts s'il vous plaît.",
+                "Pouvez-vous me montrer les batteries qui ont une tension entre 3.5 et 4.1 V ?",
+                "Liste des accumulateurs ayant une tension comprise entre 3.1 et 4.4 V.",
+                "Quels sont les accumulateurs avec une tension entre 3.9 et 4.6 V ?",
+                "Affichez-moi les piles dont la tension se situe entre 3.2 et 4.0 V s'il vous plaît.",
+                "Je voudrais voir les batteries qui ont une tension entre 3.8 et 4.5 volts."
+            ],
+            "responses": [
+                "Voici les batteries possédant une tension entre les bornes fournies"
+            ]
+        },
+        {
+            "tag": "poids_inferieur",
+            "questions": [
+                "Pouvez-vous me montrer les batteries ayant un poids inférieur à 47.0000g s'il vous plaît?",
+                "Donnez-moi la liste des batteries dont le poids est inférieur à 30.0000g.",
+                "Affichez-moi les batteries dont le poids est moins de 20.0050g s'il vous plaît.",
+                "Quelles sont les batteries avec un poids inférieur à 47.0000g?",
+                "Pourriez-vous me fournir la liste des batteries dont le poids est moins de 30.0000g s'il vous plaît?",
+                "Peux-tu me montrer les batteries avec un poids inférieur à 20.0050g?",
+                "Liste des batteries ayant un poids inférieur à 47.0000g.",
+                "Je voudrais connaître les batteries dont le poids est inférieur à 30.0000g.",
+                "Quelles sont les options de batteries avec un poids inférieur à 47.0000g?",
+                "Auriez-vous des informations sur les batteries dont le poids est moins de 30.0000g?",
+                "Pouvez-vous me donner la liste des batteries ayant un poids inférieur à 20.0050g s'il vous plaît?",
+                "Affichez-moi les batteries dont le poids est inférieur à 47.0000g s'il vous plaît.",
+                "Donnez-moi la liste des batteries avec un poids moins de 30.0000g.",
+                "Quelles sont les batteries dont le poids est inférieur à 47.0000g?",
+                "Pourriez-vous me montrer les batteries dont le poids est moins de 30.0000g s'il vous plaît?",
+                "Peux-tu me donner la liste des batteries avec un poids inférieur à 20.0050g?",
+                "Auriez-vous des informations sur les batteries dont le poids est moins de 47.0000g?",
+                "Quelles sont les batteries avec un poids inférieur à 30.0000g?",
+                "Pouvez-vous afficher les batteries ayant un poids inférieur à 20.0050g s'il vous plaît?",
+                "Liste des batteries dont le poids est inférieur à 47.0000g."
+            ],
+            "responses": [
+                "Voici les batteries possédant un poids inférieur la valeur demandée"
+            ]
+        },
+        {
+            "tag": "poids_superieur",
+            "questions": [
+                "Quelles sont les batteries avec un poids supérieur à 47.0000g ?",
+                "Montre-moi les batteries avec un poids supérieur à 30.0000g.",
+                "Affiche-moi les batteries qui dépassent la capacité 20.0050g.",
+                "Montre-moi les piles avec un poids supérieur à 40.0000g.",
+                "Quelles sont les batteries avec un poids supérieur à 25.0000g ?",
+                "Donne-moi la liste des batteries dont le poids dépasse 35.0000g.",
+                "Affichez-moi les batteries dont le poids dépasse 50.0050g s'il vous plaît.",
+                "Pouvez-vous me montrer les batteries avec un poids supérieur à 45.0000g s'il vous plaît?",
+                "Liste des batteries ayant un poids supérieur à 55.0000g.",
+                "Je voudrais connaître les batteries dont le poids dépasse 60.0000g.",
+                "Quelles sont les options de batteries avec un poids supérieur à 70.0000g?",
+                "Auriez-vous des informations sur les batteries dont le poids dépasse 75.0000g ?",
+                "Pouvez-vous me donner la liste des batteries ayant un poids supérieur à 80.0050g s'il vous plaît?",
+                "Affichez-moi les batteries dont le poids est supérieur à 90.0000g s'il vous plaît.",
+                "Donnez-moi la liste des batteries avec un poids supérieur à 100.0000g.",
+                "Quelles sont les batteries dont le poids dépasse 110.0000g ?",
+                "Pourriez-vous me montrer les batteries dont le poids est supérieur à 120.0000g s'il vous plaît?",
+                "Peux-tu me donner la liste des batteries avec un poids supérieur à 130.0050g?",
+                "Auriez-vous des informations sur les batteries dont le poids est supérieur à 140.0000g?",
+                "Quelles sont les batteries avec un poids supérieur à 150.0000g ?",
+                "Pouvez-vous afficher les batteries ayant un poids supérieur à 160.0050g s'il vous plaît?"
+            ],
+            "responses": [
+                "Voici les batteries possédant un poids supérieur la valeur demandée"
+            ]
+        },
+        {
+            "tag": "poids_intervalle",
+            "questions": [
+                "Quelles sont les batteries avec un poids compris entre 30.0000g et 50.0000g?",
+                "Les batteries avec un poids entre 40.0000g et 60.0000g.",
+                "Affichez-moi les batteries dont le poids se situe entre 35.0000g et 55.0000g s'il vous plaît.",
+                "Montrez-moi les piles avec un poids entre 25.0000g et 45.0000g s'il vous plaît.",
+                "Quelles sont les batteries avec un poids compris entre 20.0000g et 40.0000g?",
+                "Montrez-moi la liste des batteries dont le poids est entre 35.0000g et 55.0000g.",
+                "Affichez-moi les batteries dont le poids est compris entre 30.0050g et 50.0050g s'il vous plaît.",
+                "Pouvez-vous me montrer les batteries avec un poids entre 45.0000g et 65.0000g s'il vous plaît?",
+                "Liste des batteries ayant un poids entre 50.0000g et 70.0000g.",
+                "Je voudrais connaître les batteries dont le poids se situe entre 55.0000g et 75.0000g.",
+                "Quelles sont les options de batteries avec un poids compris entre 60.0000g et 80.0000g?",
+                "Auriez-vous des informations sur les batteries dont le poids est entre 65.0000g et 85.0000g ?",
+                "Pouvez-vous me donner la liste des batteries ayant un poids entre 70.0050g et 90.0050g s'il vous plaît?",
+                "Affichez-moi les batteries dont le poids est entre 75.0000g et 95.0000g s'il vous plaît.",
+                "Donnez-moi la liste des batteries avec un poids entre 80.0000g et 100.0000g.",
+                "Quelles sont les batteries dont le poids est compris entre 85.0000g et 105.0000g ?",
+                "Pourriez-vous me montrer les batteries dont le poids est entre 90.0000g et 110.0000g s'il vous plaît?",
+                "Peux-tu me donner la liste des batteries avec un poids compris entre 95.0050g et 115.0050g?",
+                "Auriez-vous des informations sur les batteries dont le poids est entre 100.0000g et 120.0000g?",
+                "Quelles sont les batteries avec un poids entre 105.0000g et 125.0000g ?",
+                "Pouvez-vous afficher les batteries ayant un poids entre 110.0050g et 130.0050g s'il vous plaît?"
+            ],
+            "responses": [
+                "Voici les batteries possédant un poids entre les bornes fournies"
+            ]
+        },
+        {
+            "tag": "poids_minimal",
+            "questions": [
+                "Quelle est la batterie avec le poids minimal parmi les batteries disponibles?",
+                "Montre-moi la batterie avec le poids le plus bas s'il te plaît.",
+                "Affiche-moi la batterie qui a le poids le plus bas.",
+                "Donnez-moi la batterie qui a le poids le plus bas.",
+                "Pouvez-vous me montrer la batterie avec le poids le plus bas parmi les options disponibles s'il vous plaît?",
+                "Peux-tu me montrer la batterie qui a le poids le plus bas s'il te plaît?",
+                "Montrez-moi la batterie avec le poids minimal.",
+                "Quelle est la batterie qui a le poids le plus bas parmi celles proposées?",
+                "Quelle batterie a le poids le plus bas?",
+                "Donnez-moi la batterie avec le poids le plus bas parmi les choix disponibles s'il vous plaît.",
+                "Pouvez-vous me montrer la batterie qui a le poids le plus bas parmi celles-ci s'il vous plaît?",
+                "Montre-moi la batterie avec le poids minimal parmi celles-ci.",
+                "Affichez-moi la batterie qui a le poids le plus bas s'il vous plaît.",
+                "Quelle est la batterie avec le poids le plus bas parmi les options?",
+                "Donnez-moi la batterie qui a le poids le plus bas parmi les alternatives disponibles s'il vous plaît.",
+                "Pouvez-vous me montrer la batterie avec le poids le plus bas s'il vous plaît?",
+                "Montrez-moi la batterie qui a le poids le plus bas parmi celles-ci.",
+                "Quelle est la batterie avec le poids le plus bas parmi les alternatives?",
+                "Quelle batterie a le poids le plus bas parmi celles proposées?",
+                "Affichez-moi la batterie qui a le poids le plus bas parmi les choix disponibles s'il vous plaît.",
+                "Donnez-moi la batterie avec le poids le plus bas parmi les options s'il vous plaît."
+            ],
+            "responses": [
+                "Voici la batterie possédant le poids le plus petit"
+            ]
+        },
+        {
+            "tag": "poids_maximal",
+            "questions": [
+                "Quelle est la batterie avec le poids maximal parmi les batteries disponibles?",
+                "Montre-moi la batterie avec le poids le plus élevé s'il te plaît.",
+                "Affiche-moi la batterie qui a le poids le plus élevé.",
+                "Donnez-moi la batterie qui a le poids le plus élevé.",
+                "Pouvez-vous me montrer la batterie avec le poids le plus élevé parmi les options disponibles s'il vous plaît?",
+                "Peux-tu me montrer la batterie qui a le poids le plus élevé s'il te plaît?",
+                "Montrez-moi la batterie avec le poids maximal.",
+                "Quelle est la batterie qui a le poids le plus élevé parmi celles proposées?",
+                "Quelle batterie a le poids le plus élevé?",
+                "Donnez-moi la batterie avec le poids le plus élevé parmi les choix disponibles s'il vous plaît.",
+                "Pouvez-vous me montrer la batterie qui a le poids le plus élevé parmi celles-ci s'il vous plaît?",
+                "Montre-moi la batterie avec le poids maximal parmi celles-ci.",
+                "Affichez-moi la batterie qui a le poids le plus élevé s'il vous plaît.",
+                "Quelle est la batterie avec le poids le plus élevé parmi les options?",
+                "Donnez-moi la batterie qui a le poids le plus élevé parmi les alternatives disponibles s'il vous plaît.",
+                "Pouvez-vous me montrer la batterie avec le poids le plus élevé s'il vous plaît?",
+                "Montrez-moi la batterie qui a le poids le plus élevé parmi celles-ci.",
+                "Quelle est la batterie avec le poids le plus élevé parmi les alternatives?",
+                "Quelle batterie a le poids le plus élevé parmi celles proposées?",
+                "Affichez-moi la batterie qui a le poids le plus élevé parmi les choix disponibles s'il vous plaît.",
+                "Donnez-moi la batterie avec le poids le plus élevé parmi les options s'il vous plaît."
+            ],
+            "responses": [
+                "Voici la batterie possédant le poid le plus élevé"
+            ]
+        },
+        {
+            "tag": "capacite_inferieure",
+            "questions": [
+                "Quelles sont les batteries avec une capacité inférieure à 1000 mAh ?",
+                "Montre-moi les batteries avec une capacité inférieure à 1500 mAh s'il te plaît.",
+                "Affiche-moi les batteries qui ont une capacité inférieure à 2000 mAh s'il vous plaît.",
+                "Donnez-moi les batteries qui ont une capacité inférieure à 2500 mAh s'il vous plaît.",
+                "Pouvez-vous me montrer les batteries avec une capacité inférieure à 3000 mAh s'il vous plaît?",
+                "Peux-tu me montrer les batteries avec une capacité inférieure à 3500 mAh s'il te plaît?",
+                "Montrez-moi les batteries avec une capacité inférieure à 4000 mAh s'il vous plaît.",
+                "Quelles sont les batteries qui ont une capacité inférieure à 4500 mAh ?",
+                "Quelles sont les options de batteries avec une capacité inférieure à 5000 mAh ?",
+                "Auriez-vous des informations sur les batteries avec une capacité inférieure à 5500 mAh ?",
+                "Pouvez-vous me donner les batteries avec une capacité inférieure à 6000 mAh s'il vous plaît?",
+                "Affichez-moi les batteries qui ont une capacité inférieure à 6500 mAh s'il vous plaît.",
+                "Donnez-moi les batteries qui ont une capacité inférieure à 7000 mAh s'il vous plaît?",
+                "Quelles sont les batteries avec une capacité inférieure à 7500 mAh ?",
+                "Pourriez-vous me montrer les batteries avec une capacité inférieure à 8000 mAh s'il vous plaît?",
+                "Peux-tu me montrer les batteries avec une capacité inférieure à 8500 mAh s'il te plaît?",
+                "Montrez-moi les batteries avec une capacité inférieure à 9000 mAh s'il vous plaît.",
+                "Quelles sont les batteries qui ont une capacité inférieure à 9500 mAh ?",
+                "Quelles sont les options de batteries avec une capacité inférieure à 10000 mAh ?",
+                "Auriez-vous des informations sur les batteries avec une capacité inférieure à 10500 mAh ?"
+            ],
+            "responses": [
+                "Voici les batteries possédant une capacité inférieure la valeur demandée"
+            ]
+        },
+        {
+            "tag": "capacite_superieure",
+            "questions": [
+                "Quelles sont les batteries avec une capacité supérieure à 10000 mAh ?",
+                "Quelles sont les piles ayant une capacité plus élevée que 8000 mAh ?",
+                "Quelles sont les batteries qui dépassent la capacité 9000 mAh ?",
+                "Montre-moi les batteries avec une capacité supérieure à 7000 mAh s'il te plaît.",
+                "Montre-moi les piles ayant une capacité plus élevée que 6000 mAh s'il te plaît.",
+                "Affichez-moi les batteries qui ont une capacité supérieure à 5000 mAh s'il vous plaît.",
+                "Donnez-moi les batteries qui ont une capacité supérieure à 4000 mAh s'il vous plaît.",
+                "Pouvez-vous me montrer les batteries avec une capacité supérieure à 3000 mAh s'il vous plaît?",
+                "Peux-tu me montrer les batteries avec une capacité supérieure à 2000 mAh s'il te plaît?",
+                "Montrez-moi les batteries avec une capacité supérieure à 1000 mAh s'il vous plaît.",
+                "Quelles sont les batteries qui ont une capacité supérieure à 500 mAh ?",
+                "Quelles sont les options de batteries avec une capacité supérieure à 250 mAh ?",
+                "Auriez-vous des informations sur les batteries avec une capacité supérieure à 100 mAh ?",
+                "Pouvez-vous me donner les batteries avec une capacité supérieure à 50 mAh s'il vous plaît?",
+                "Affichez-moi les batteries qui ont une capacité supérieure à 30 mAh s'il vous plaît.",
+                "Donnez-moi les batteries qui ont une capacité supérieure à 20 mAh s'il vous plaît.",
+                "Quelles sont les batteries qui ont une capacité supérieure à 10 mAh ?",
+                "Pourriez-vous me montrer les batteries avec une capacité supérieure à 5 mAh s'il vous plaît?",
+                "Peux-tu me montrer les batteries avec une capacité supérieure à 2 mAh s'il te plaît?",
+                "Montrez-moi les batteries avec une capacité supérieure à 1 mAh s'il vous plaît.",
+                "Quelles sont les batteries qui ont une capacité supérieure à 0.5 mAh ?"
+            ],
+            "responses": [
+                "Voici les batteries possédant une capacité supérieure la valeur demandée"
+            ]
+        },
+        {
+            "tag": "capacite_intervalle",
+            "questions": [
+                "Quelles sont les batteries avec une capacité comprise entre 1000 mAh et 5000 mAh ?",
+                "Montre-moi les batteries avec une capacité entre 2000 mAh et 6000 mAh s'il te plaît.",
+                "Quelles sont les piles ayant une capacité située entre 3000 mAh et 7000 mAh ?",
+                "Quelles sont les piles avec une capacité entre 4000 mAh et 8000 mAh ?",
+                "Quelles sont les batteries avec une capacité comprise entre 5000 mAh et 9000 mAh ?",
+                "Montre-moi les batteries avec une capacité entre 6000 mAh et 10000 mAh s'il te plaît.",
+                "Quelles sont les piles ayant une capacité située entre 7000 mAh et 11000 mAh ?",
+                "Quelles sont les piles avec une capacité entre 8000 mAh et 12000 mAh ?",
+                "Quelles sont les batteries avec une capacité comprise entre 9000 mAh et 13000 mAh ?",
+                "Montre-moi les batteries avec une capacité entre 10000 mAh et 14000 mAh s'il te plaît.",
+                "Quelles sont les piles ayant une capacité située entre 11000 mAh et 15000 mAh ?",
+                "Quelles sont les piles avec une capacité entre 12000 mAh et 16000 mAh ?",
+                "Quelles sont les batteries avec une capacité comprise entre 13000 mAh et 17000 mAh ?",
+                "Montre-moi les batteries avec une capacité entre 14000 mAh et 18000 mAh s'il te plaît.",
+                "Quelles sont les piles ayant une capacité située entre 15000 mAh et 19000 mAh ?",
+                "Quelles sont les piles avec une capacité entre 16000 mAh et 20000 mAh ?",
+                "Quelles sont les batteries avec une capacité comprise entre 17000 mAh et 21000 mAh ?",
+                "Montre-moi les batteries avec une capacité entre 18000 mAh et 22000 mAh s'il te plaît.",
+                "Quelles sont les piles ayant une capacité située entre 19000 mAh et 23000 mAh ?",
+                "Quelles sont les piles avec une capacité entre 20000 mAh et 24000 mAh ?"
+            ],
+            "responses": [
+                "Voici les batteries possédant une capacité entre les bornes fournies"
+            ]
+        },
+        {
+            "tag": "capacite_maximale",
+            "questions": [
+                "Quelle est la batterie avec la capacité maximale?",
+                "Montre-moi la batterie avec la capacité maximale.",
+                "Donne-moi la batterie avec la capacité maximale s'il te plaît.",
+                "Peux-tu me montrer la batterie avec la capacité maximale?",
+                "Affiche-moi la batterie avec la capacité maximale.",
+                "Je suis intéressé par la batterie avec la capacité maximale.",
+                "Montre-moi l'accumulateur avec la capacité maximale.",
+                "Liste des batteries avec la capacité maximale.",
+                "Quels sont les accumulateurs avec la capacité maximale?",
+                "Affichez-moi les piles avec la capacité maximale.",
+                "Pouvez-vous me montrer la batterie avec la capacité maximale s'il vous plaît?",
+                "Je cherche la batterie avec la capacité maximale.",
+                "Quelles sont les options de batteries avec la capacité maximale?",
+                "Auriez-vous des informations sur la batterie avec la capacité maximale?",
+                "Montrez-moi la batterie avec la capacité maximale disponible.",
+                "Y a-t-il des batteries avec la capacité maximale en stock?",
+                "Quelles sont les batteries avec la capacité maximale en vente?",
+                "Pouvez-vous me donner des détails sur la batterie avec la capacité maximale?",
+                "Je veux voir la batterie avec la capacité maximale.",
+                "Affichez-moi la batterie avec la capacité maximale en stock."
+            ],
+            "responses": [
+                "Voici la batterie possédant la plus grande capacité"
+            ]
+        },
+        {
+            "tag": "capacite_minimale",
+            "questions": [
+                "Quelle est la batterie avec la capacité minimale parmi les batteries disponibles?",
+                "Montre-moi la batterie avec la capacité la plus petite s'il te plaît.",
+                "Affiche-moi la batterie qui a la capacité la plus basse.",
+                "Donnez-moi la batterie qui a la capacité la plus basse.",
+                "Pouvez-vous me montrer la batterie avec la capacité la plus basse parmi les options disponibles s'il vous plaît?",
+                "Peux-tu me montrer la batterie qui a la capacité la plus basse s'il te plaît?",
+                "Montrez-moi la batterie avec la capacité minimale.",
+                "Quelle est la batterie qui a la capacité la plus basse parmi celles proposées?",
+                "Quelle batterie a la capacité la plus basse?",
+                "Donnez-moi la batterie avec la capacité la plus basse parmi les choix disponibles s'il vous plaît?",
+                "Pouvez-vous me montrer la batterie qui a la capacité la plus basse parmi celles-ci s'il vous plaît?",
+                "Montre-moi la batterie avec la capacité minimale parmi celles-ci.",
+                "Affichez-moi la batterie qui a la capacité la plus basse s'il vous plaît.",
+                "Quelle est la batterie avec la capacité la plus basse parmi les options?",
+                "Donnez-moi la batterie qui a la capacité la plus basse parmi les alternatives disponibles s'il vous plaît.",
+                "Pouvez-vous me montrer la batterie avec la capacité la plus basse s'il vous plaît?",
+                "Montrez-moi la batterie qui a la capacité la plus basse parmi celles-ci.",
+                "Quelle est la batterie avec la capacité la plus basse parmi les alternatives?",
+                "Quelle batterie a la capacité la plus basse parmi celles proposées?",
+                "Affichez-moi la batterie qui a la capacité la plus basse parmi les choix disponibles s'il vous plaît.",
+                "Donnez-moi la batterie avec la capacité la plus basse parmi les options s'il vous plaît."
+            ],
+            "responses": [
+                "Voici la batterie possédant la plus petite capacité"
+            ]
+        },
+        {
+            "tag": "salutation",
+            "questions": [
+                "Salut",
+                "Bonjour",
+                "Comment ça va ?",
+                "Hey",
+                "Hello",
+                "Salutations",
+                "Coucou",
+                "Salut toi",
+                "Salut MIKI",
+                "Hey MIKI",
+                "Hello chatbot",
+                "Salut comment ça va ?",
+                "Hey comment vas-tu ?",
+                "Salut mon ami",
+                "Salut l'ami",
+                "Bonjour chatbot",
+                "Bonjour à toi",
+                "Coucou MIKI",
+                "Hello à toi",
+                "Hey toi"
+            ],
+            "responses": [
+                "Salut Partenaire !",
+                "Bonjour",
+                "Comment vas-tu ?",
+                "Salut ! Comment puis-je vous aider ?",
+                "Bonjour ! En quoi puis-je vous assister ?",
+                "Salutations ! Comment puis-je vous aider aujourd'hui ?",
+                "Coucou ! Comment puis-je vous assister ?",
+                "Salut ! En quoi puis-je vous être utile ?",
+                "Bonjour ! Comment puis-je vous aider ?",
+                "Salut ! Comment puis-je vous aider aujourd'hui ?",
+                "Bonjour ! En quoi puis-je vous être utile ?",
+                "Salut ! En quoi puis-je vous assister ?",
+                "Hey ! Comment puis-je vous aider aujourd'hui ?",
+                "Salut ! Comment puis-je vous aider ?",
+                "Salut ! Comment puis-je vous être utile ?",
+                "Bonjour ! Comment puis-je vous assister aujourd'hui ?",
+                "Bonjour ! En quoi puis-je vous aider aujourd'hui ?",
+                "Coucou ! Comment puis-je vous être utile aujourd'hui ?",
+                "Bonjour ! Comment puis-je vous aider ?",
+                "Salut ! Comment puis-je vous assister ?"
+            ]
+        },
+        {
+            "tag": "age",
+            "questions": [
+                "Quel est ton âge ?",
+                "Quand es-tu né ?",
+                "Date de naissance",
+                "Tu as quel âge ?",
+                "Quelle est ta date de naissance ?",
+                "En quelle année es-tu né ?",
+                "Tu es né quand ?",
+                "Quand as-tu vu le jour ?",
+                "Quand est-ce que tu as fêté ton anniversaire pour la dernière fois ?",
+                "Peux-tu me dire ton année de naissance ?",
+                "Tu es né en quelle année ?",
+                "Quand est-ce que tu as vu le monde pour la première fois ?",
+                "Quand as-tu été créé ?",
+                "Quand est-ce que tu as commencé à exister ?",
+                "Peux-tu me dire quand tu es né ?",
+                "Quelle est ta date d'anniversaire ?",
+                "Quand célèbres-tu ton anniversaire ?",
+                "En quelle année es-tu apparu ?",
+                "À quel moment es-tu né ?",
+                "Peux-tu me dire quand tu as vu le jour ?"
+            ],
+            "responses": [
+                "Je suis né en 2023",
+                "Mon anniversaire est le 24 Octobre et je suis né en 2023",
+                "24/10/2023",
+                "Je suis apparu en 2023",
+                "Je suis né le 24 Octobre 2023",
+                "Je suis en service depuis Octobre 2023",
+                "Je suis en ligne depuis 2023",
+                "Je suis actif depuis Octobre 2023",
+                "Je suis fonctionnel depuis 2023",
+                "J'ai été créé en 2023",
+                "Je suis en ligne depuis le 24 Octobre 2023",
+                "Je suis actif depuis Octobre 2023",
+                "Je suis en service depuis Octobre 2023",
+                "Je suis en ligne depuis Octobre 2023",
+                "Je suis actif depuis le 24 Octobre 2023",
+                "Je suis fonctionnel depuis Octobre 2023",
+                "J'ai commencé à fonctionner en 2023",
+                "Je suis actif depuis le 24 Octobre 2023",
+                "Je suis en service depuis Octobre 2023",
+                "J'ai été créé en 2023"
+            ]
+        },
+        {
+            "tag": "name",
+            "questions": [
+                "Comment tu t'appelles ?",
+                "Quel est ton nom ?",
+                "C'est quoi ton prénom ?",
+                "Tu as un nom ?",
+                "Quel est le nom que tu utilises ?",
+                "Peux-tu me dire ton nom ?",
+                "Comment puis-je t'appeler ?",
+                "Quel est ton prénom ?",
+                "Tu as un prénom ?",
+                "Quel nom te représente ?",
+                "Quel est le nom qui te désigne ?",
+                "Comment devrais-je t'appeler ?",
+                "Dis-moi comment tu es nommé(e).",
+                "Comment puis-je te nommer ?",
+                "Quel nom t'identifie ?",
+                "Est-ce que tu as un nom particulier ?",
+                "Quel est ton nom de code ?",
+                "Comment devrais-je te nommer ?",
+                "Quel nom te convient le mieux ?",
+                "Peux-tu me donner ton nom ?",
+                "Comment dois-je t'appeler ?"
+            ],
+            "responses": [
+                "Je m'appelle MIKI",
+                "Mon nom est MIKI",
+                "MIKI"
+            ]
+        },
+        {
+            "tag": "au_revoir",
+            "questions": [
+                "Au revoir",
+                "À plus tard",
+                "À bientôt",
+                " A plus",
+                "À la prochaine",
+                "À tout à l'heure",
+                "Bonne journée",
+                "Bonne soirée",
+                "À demain",
+                "Bonne nuit",
+                "On se revoit plus tard",
+                "À la prochaine fois",
+                "Je m'en vais",
+                "On se retrouve plus tard",
+                "Je file",
+                "Je pars",
+                "À la revanche"
+            ],
+            "responses": [
+                "C'était agréable de vous parler",
+                "À plus tard",
+                "À bientôt !",
+                "A plus!",
+                "À la prochaine fois",
+                "À tout à l'heure",
+                "Au plaisir de vous revoir !",
+                "On se retrouve plus tard !",
+                "À la prochaine fois !",
+                "D'accord, à bientôt !",
+                "À la prochaine alors !",
+                "À la revanche !",
+                "Au plaisir de vous revoir !"
+            ]
+        },
+        {
+            "tag": "remerciement",
+            "questions": [
+                "Merci",
+                "Merci beaucoup",
+                "Vous êtes génial",
+                "Je vous remercie",
+                "Un grand merci",
+                "Merci infiniment",
+                "C'est très gentil de votre part",
+                "Vous êtes super",
+                "Je suis reconnaissant",
+                "Je suis reconnaissante",
+                "Merci mille fois",
+                "C'est très aimable",
+                "Vous êtes formidable",
+                "C'est très généreux de votre part",
+                "Je suis très reconnaissant",
+                "Je suis très reconnaissante",
+                "Vous êtes extraordinaire",
+                "Je vous suis reconnaissant",
+                "Je vous suis reconnaissante",
+                "Merci du fond du cœur",
+                "Vous êtes vraiment sympa"
+            ],
+            "responses": [
+                "Vous êtes les bienvenus ! Si vous avez d'autres questions, n'hésitez pas.",
+                "Je vous en prie. Si vous avez besoin de plus d'informations, faites-le moi savoir.",
+                "C'est un plaisir de vous aider ! N'hésitez pas si vous avez d'autres questions.",
+                "De rien ! Si vous avez d'autres demandes, n'hésitez pas à les poser.",
+                "C'est toujours un plaisir d'aider. Si vous avez d'autres questions, ne vous gênez pas !",
+                "Avec plaisir ! N'hésitez pas si vous avez besoin de quelque chose d'autre.",
+                "Je suis là pour ça ! Si vous avez d'autres questions, je suis là pour vous aider.",
+                "C'est un plaisir d'être utile ! Si vous avez besoin de plus d'informations, je suis là.",
+                "Je suis heureux d'avoir pu vous aider. Si vous avez d'autres questions, je suis à votre disposition.",
+                "Je suis content d'avoir pu vous aider. Si vous avez besoin de plus d'informations, je suis là pour vous.",
+                "C'est un plaisir de vous aider. N'hésitez pas à me poser d'autres questions si vous en avez.",
+                "Je suis ravi d'avoir pu vous assister. Si vous avez d'autres questions, n'hésitez pas à les poser.",
+                "Avec plaisir ! N'hésitez pas si vous avez d'autres demandes ou questions.",
+                "Je suis là pour vous aider. Si vous avez besoin de plus d'informations, je suis à votre disposition.",
+                "Je suis content d'avoir pu vous être utile. Si vous avez d'autres questions, n'hésitez pas à les poser.",
+                "C'est un plaisir de vous aider. Si vous avez d'autres questions, je suis à votre service.",
+                "Je suis ravi d'avoir pu vous être utile. Si vous avez besoin de plus d'informations, je suis là.",
+                "Avec plaisir ! Si vous avez d'autres demandes, je suis là pour vous aider.",
+                "C'est un plaisir de vous assister. Si vous avez d'autres questions, n'hésitez pas à les poser.",
+                "Je suis heureux d'avoir pu vous aider. Si vous avez besoin de plus d'informations, je suis à votre disposition.",
+                "C'est toujours un plaisir de rendre service ! Si vous avez d'autres questions, n'hésitez pas."
+            ]
+        },
+        {
+            "tag": "tension_maximale",
+            "questions": [
+                "Quelle est la batterie avec une tension maximale?",
+                "Montre-moi la batterie avec une tension maximale?",
+                "Affiche-moi la batterie dont la tension est maximale?",
+                "Je suis à la recherche de batteries avec une tension maximale?",
+                "Montre-moi l'accumulateur avec une tension maximale?",
+                "La batterie  avec une tension maximale",
+                "Quel est l'accumulateur avec une tension maximale?",
+                "Affichez-moi la pile avec une tension maximale.",
+                "Pouvez-vous me montrer la batterie avec une tension grande s'il vous plaît?",
+                "Je cherche la batterie avec la tension la plus grande.",
+                "Quelles  sont les options de la  batterie avec une tension grande ?",
+                "Auriez-vous des informations sur la batterie avec la tension maximale ?",
+                "Montrez-moi la batterie avec la tension la plus grande?",
+                "Y a-t-il une  batterie avec une tension  plus grande en stock?",
+                "Quelle est la batterie avec une tension grande en vente?",
+                "Pouvez-vous me donner des détails sur la batterie avec une tension maximale?",
+                "Je veux voir la batterie avec une tension maximale",
+                "Affichez-moi la batterie avec une tension maximale en stock.",
+                "Quelle est la batterie avec une tension maximale en promotion?"
+            ],
+            "responses": [
+                "Voici la batterie possédant la plus grande tension"
+            ]
+        },
+        {
+            "tag": "tension_minimale",
+            "questions": [
+                "Quelle est la batterie avec une tension minimale?",
+                "Montre-moi la batterie avec une tension minimale?",
+                "Affiche-moi la batterie dont la tension est minimale?",
+                "Je suis à la recherche de batteries avec une tension minimale?",
+                "Montre-moi l'accumulateur avec une tension minimale?",
+                "La batterie  avec une tension minimale",
+                "Quel est l'accumulateur avec une tension minimale?",
+                "Affichez-moi la pile avec une tension minimale.",
+                "Pouvez-vous me montrer la batterie avec une tension petite  s'il vous plaît?",
+                "Je cherche la batterie avec la tension la plus petite.",
+                "Quelles  sont les options de la  batterie avec une tension petite ?",
+                "Auriez-vous des informations sur la batterie avec la tension petite ?",
+                "Montrez-moi la batterie avec la tension la plus petite?",
+                "Y a-t-il une  batterie avec une tension  plus petite en stock?",
+                "Quelle est la batterie avec une tension petite en vente?",
+                "Pouvez-vous me donner des détails sur la batterie avec une tension minimale?",
+                "Je veux voir la batterie avec une tension minimale",
+                "Affichez-moi la batterie avec une tension minimale en stock.",
+                "Quelle est la batterie avec une tension minimale  en promotion?"
+            ],
+            "responses": [
+                "Voici la batterie possédant la plus petite tension"
+            ]
+        }
+    ]
+}
